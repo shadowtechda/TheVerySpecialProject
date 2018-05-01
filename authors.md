@@ -63,4 +63,5 @@
 #### Andrew A.
 — **skills:** Some knowledge of HTML & CSS. Willing to help in any area needed.
 
-
+#### Johnv.
+— **skills:** HTML ,CSS, JS, Python, Basic MongoDB Certified, MySQL, Photoshop, Gimp, Inkscape, little knowledge of Django, and Docker (for Dev Env).
